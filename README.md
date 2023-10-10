@@ -48,7 +48,7 @@
     <td><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"></a></td>
     <td><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"></a></td>
     <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a></td>
-  </tr>
+  </tr
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samcasmmm&show_icons=true&locale=en&layout=compact" alt="samcasmmm" /></p>
@@ -56,3 +56,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samcasmmm&show_icons=true&locale=en" alt="samcasmmm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samcasmmm&" alt="samcasmmm" /></p>
+
+
