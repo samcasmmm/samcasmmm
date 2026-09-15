@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameer Bagwan</h1>
 <h3 align="center">Frontend Developer & React Native</h3>
-
+ 
 [![An image of @samcasmmm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samcasmmm)](https://holopin.io/@samcasmmm)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samcasmmm&label=Profile%20views&color=0e75b6&style=flat" alt="samcasmmm" /> </p>
